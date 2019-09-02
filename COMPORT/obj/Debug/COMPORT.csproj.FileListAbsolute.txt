@@ -1,0 +1,15 @@
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\bin\Debug\COMPORT.exe.config
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\bin\Debug\COMPORT.exe
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\bin\Debug\COMPORT.pdb
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT.csprojAssemblyReference.cache
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\App.g.cs
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT_MarkupCompile.cache
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT_MarkupCompile.lref
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT.g.resources
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT.Properties.Resources.resources
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT.csproj.GenerateResource.cache
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT.csproj.CoreCompileInputs.cache
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT.exe
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\COMPORT.pdb
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\MainWindow.g.cs
+D:\Visual studio workspace\C#2017\COMPORT\COMPORT\obj\Debug\MainWindow.baml
